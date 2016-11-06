@@ -1,0 +1,8 @@
+"name": "Ecommerce Website",
+"version": "0.0.0.",
+"description": "Boy or Sell Anything !",
+"main": "server.js",
+"engines": {
+  "node": "5.3.0",
+  "npm": "3.7.1"
+}
